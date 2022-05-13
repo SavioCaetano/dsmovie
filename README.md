@@ -19,7 +19,7 @@ essa avaliação será registrada e a nota do filme atualizada.
 
 ![Modelo_Conceitual](https://github.com/SavioCaetano/assets/raw/main/assets-dsmovie/dsmovie-dominio.png)
 
-#Tecnologias utilizadas
+# Tecnologias utilizadas
 
 ## Back end
 
