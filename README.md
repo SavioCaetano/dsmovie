@@ -12,7 +12,7 @@ essa avaliação será registrada e a nota do filme atualizada.
 ## Layout Web
 
 <p align="center">
-  <img src="assets-dsmovie/dsmovie-home-page.png">
+  <img src="https://github.com/SavioCaetano/assets/tree/main/assets-dsmovie/dsmovie-home-page.png">
 </p>
 
 ![Web_2](https://github.com/SavioCaetano/assets/raw/main/assets-dsmovie/dsmovie-avaliation.png)
