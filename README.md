@@ -36,7 +36,7 @@ essa avaliação será registrada e a nota do filme atualizada.
 
 - Back end: Heroku
 - Front end: Netlify
-- Banco de dados: Postegresql
+- Banco de dados: PostgreSQL
 
 # Autor
 
